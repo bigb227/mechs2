@@ -1,0 +1,181 @@
+generator:MegaMek Suite 0.51.00 on 2026-09-20
+chassis:Stalker
+model:STK-3F-BM (Upgraded)
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3145
+source:CO,IC,JFR,JHS:3076,JHS:Terra,JSBD,JTP:Atreus,JTP:AtreusBC,JTP:Dieron,JTP:Hesperus II,JTP:Luthien,JTP:NewAvalon,JTP:Sian,JTP:Tharkad,MH55,MSII,MW1e,MWC,RG01,RG02,RG03,RG04,RG05,RG06,RG07,RG08,RG09,RG10,RG11,RG12,RG13,RG14,RG15,RG16,RG17,RG18,RG19,RG20,RG21,RG22,RG23,RG24,RG25,RG26,RG27,RG28,RG29,RG30,RG31,RG32,RG33,TM,TR:2750,TR:3025,TR:3025C,TR:3025r,TR:3026,TR:3026r,TR:3039,TR:3050,TR:3050U,TR:3055U,TR:3057r,TR:3058U,TR:3060,TR:3067,TR:3075,TR:3085,TR:3085S,TR:3145,TR:3145:C,TR:3145:CC,TR:3145:DC,TR:3145:FS,TR:3145:FWL,TR:3145:LC,TR:3145:Merc,TR:3145:RotS,TR:3150,TR:CI,TR:DA,TR:GC,TR:I,TR:J,TR:PP,TR:Proto,TR:SW,TR:VAr,TW
+published:CO,IC,JFR,JHS:3076,JHS:Terra,JSBD,JTP:Atreus,JTP:AtreusBC,JTP:Dieron,JTP:Hesperus II,JTP:Luthien,JTP:NewAvalon,JTP:Sian,JTP:Tharkad,MH55,MSII,MW1e,MWC,RG01,RG02,RG03,RG04,RG05,RG06,RG07,RG08,RG09,RG10,RG11,RG12,RG13,RG14,RG15,RG16,RG17,RG18,RG19,RG20,RG21,RG22,RG23,RG24,RG25,RG26,RG27,RG28,RG29,RG30,RG31,RG32,RG33,TM,TR:2750,TR:3025,TR:3025C,TR:3025r,TR:3026,TR:3026r,TR:3039,TR:3050,TR:3050U,TR:3055U,TR:3057r,TR:3058U,TR:3060,TR:3067,TR:3075,TR:3085,TR:3085S,TR:3145,TR:3145:C,TR:3145:CC,TR:3145:DC,TR:3145:FS,TR:3145:FWL,TR:3145:LC,TR:3145:Merc,TR:3145:RotS,TR:3150,TR:CI,TR:DA,TR:GC,TR:I,TR:J,TR:PP,TR:Proto,TR:SW,TR:VAr,TW
+rules level:3
+role:Missile Boat
+
+quirk:combat_computer
+quirk:no_arms
+quirk:ubiquitous_is
+
+mass:85
+engine:340 XL (Clan) Engine
+structure:Clan Endo Steel
+myomer:Standard
+cockpit:Standard Cockpit
+gyro:XL Gyro
+ejection:Full Head Ejection System
+clancaseoptedoutlocs:RT,LT
+
+heat sinks:15 Clan Double
+walk mp:4
+jump mp:0
+
+armor:Ferro-Fibrous(Clan)
+LA armor:28
+RA armor:28
+LT armor:27
+RT armor:27
+CT armor:41
+HD armor:9
+LL armor:36
+RL armor:36
+RTL armor:9
+RTR armor:9
+RTC armor:13
+
+Weapons:7
+LRM 20, Left Torso
+Large Pulse Laser, Right Arm
+ER Medium Laser, Right Arm
+ER Medium Laser, Left Arm
+SRM 6, Left Torso
+SRM 6, Right Torso
+LRM 20, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERMediumLaser
+Clan Endo Steel
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLLargePulseLaser
+CLLargePulseLaser
+CLERMediumLaser
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLSRM6
+Clan Ammo SRM-6
+Clan Ammo SRM-6
+Clan Ammo LRM-20
+Clan Ammo LRM-20
+CLCASEII
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLSRM6
+Clan Ammo SRM-6
+Clan Ammo LRM-20
+Clan Ammo LRM-20
+CLCASEII
+Clan Ferro-Fibrous
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+Clan Endo Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+overview:<p>The Stalker was introduced in 2594 by Triad Technologies as a heavy assault BattleMech designed to anchor battle lines during the Reunification War. Weighing eighty-five tons and mounting an arsenal capable of engaging targets at every range bracket, the Stalker was built to be a walking weapons platform that could absorb tremendous punishment while steadily advancing on enemy positions. Though among the slowest assault 'Mechs ever fielded, the Stalker compensated with overwhelming firepower and thirteen and a half tons of armor protection.</p><p>When Triad Technologies was destroyed during the Succession Wars, production continued uninterrupted thanks to existing lines at Irian BattleMechs Unlimited on Shiro III and Trellshire Heavy Industries on Twycross. This ensured that the Free Worlds League and Lyran Commonwealth maintained the largest concentrations of Stalkers, though the design became so ubiquitous across the Inner Sphere and Periphery that it was a fixture in virtually every major military formation for over four centuries. Triad's original marketing slogan captured the design's essence perfectly: it just keeps coming.</p>
+
+capabilities:<p>The Stalker's armament is designed around a layered engagement philosophy, increasing its damage output as it closes with the enemy. At long range, twin Jackson B5c LRM-10 launchers provide bombardment capability and allow for indirect fire support. As the range closes, two Magna Mark III large lasers add punishing energy fire from the left and right torsos. At close quarters, four Magna Mark II medium lasers and twin Thunderstroke SRM-6 launchers deliver devastating alpha strikes that can cripple opposing 'Mechs. This staggered weapons profile means a Stalker pilot must carefully manage their fire groups, as attempting to discharge all weapons simultaneously will overwhelm the twenty single heat sinks and risk catastrophic ammunition detonation.</p><p>The Stalker's thirteen and a half tons of Valiant Lamellor armor provide excellent protection for an assault 'Mech, though its 54 kph top speed powered by a Strand 255 fusion engine makes it one of the slowest designs in its weight class. The original Spar 3c Tight Band fire-control computer was designed to automatically suggest optimal weapon groupings based on target range, a feature that helped mitigate heat management challenges. By the late Succession Wars era, many surviving Stalkers had lost this system to battle damage and aging, forcing pilots to rely on experience and discipline to avoid overheating. The design's lack of jump jets and limited speed leave it vulnerable to faster opponents able to exploit its flanks, but in a straight fight few 'Mechs can match its sustained firepower.</p>
+
+deployment:<p>The original production model introduced in 2594 by Triad Technologies, this variant established the Stalker's layered-engagement doctrine with twin LRM-10 launchers for long range bombardment, paired large lasers for intermediate engagements, and a close-range combination of four medium lasers and two SRM-6 racks. Twenty single heat sinks struggle to manage the full arsenal, requiring disciplined fire group management. The STK-3F served as the backbone of SLDF assault formations for nearly two centuries and remained in continuous production at Irian BattleMechs Unlimited and Trellshire Heavy Industries after Triad Technologies was destroyed during the Succession Wars. It remains the most common Stalker variant encountered across the Inner Sphere and Periphery.</p>
+
+history:<p>The Stalker entered service with the Star League Defense Force in 2594 and quickly established itself as a cornerstone of assault lances during the Reunification War. For nearly two centuries it served as a reliable workhorse, its combination of firepower and durability making it a favorite for commanders leading major offensive operations. Stalker pilots developed a reputation for aggressive tactics, including the infamous practice of hiding inside buildings and crashing through walls to ambush passing enemy 'Mechs during urban engagements.</p><p>The fall of the Star League and destruction of Triad Technologies during the Succession Wars could have spelled the end of the design, but production at Irian BattleMechs Unlimited and Trellshire Heavy Industries ensured continuous manufacturing. The Free Worlds League and Lyran Commonwealth benefited most from this arrangement, though Stalkers were traded, captured, and salvaged across every Successor State and Periphery nation in such quantities that the design became almost unremarkable. This proliferation had the paradoxical effect of making the Stalker simultaneously feared and taken for granted, ignored until one was encountered in combat, at which point even veteran MechWarriors acknowledged the threat.</p><p>The long centuries of combat took their toll on surviving Stalkers. The extreme stress placed on the eighty-five-ton chassis led to widespread structural deterioration, forcing technicians across the Inner Sphere to strip ten to fifteen tons of weaponry from aging frames simply to keep them operational. These lightened variants, while weaker, preserved the Stalker's fundamental toughness and kept otherwise irreplaceable assault 'Mechs in service through the darkest periods of the Succession Wars.</p><p>The recovery of Star League technology in the late 3040s prompted Irian to introduce the upgraded STK-5M, which saw action during the Clan Invasion. Though improved, even upgraded Stalkers were severely tested by Clan OmniMechs. The Federated Commonwealth developed its own variant, and the FedCom Civil War spurred both successor states to produce further specialized models. StarCorps Industries on Crofton began producing the Davion-aligned STK-7D, while Defiance Industries on Furillo built the Lyran STK-8S. Irian continued refining the Marik line with the STK-6M. The Stalker's presence in the dueling circuits of Solaris VII further cemented its reputation as a proven and versatile platform.</p><p>In the Dark Age era, Irian introduced both the STK-9F Clan-tech retrofit and the entirely redesigned Stalker II, ensuring the venerable chassis line continued to evolve. Across more than five centuries of continuous service, the Stalker has fought in virtually every major conflict in the Inner Sphere, proof of the soundness of Triad Technologies' original design philosophy.</p>
+
+manufacturer:Triad Technologies|Irian BattleMechs Unlimited|Trellshire Heavy Industries
+
+primaryfactory:Pollux|Shiro III|Twycross
+
+notes:Bubbles' Marauders Stalker updated for IlClan era.
+
+systemmode:ENGINE:340
+
+icon:iVBORw0KGgoAAAANSUhEUgAAAFQAAABICAYAAABof9IhAAANd0lEQVR4Xu3c9a9dVRYHcDKZZP4BfoLgobhD0RZ3d7eW4qG4S3AN7lCgOMGhxSkugeLuEhyCEyrAnnxWZr0c9txXyvww3Hc5K9k5b5+77XzP8r3Pm2aallpqqaWWWmqppZYGKm200UZFqe+jDTfcsN/fWupAm2++ebn22mvL9ddfX9ZZZ52yyiqr9BX1G264IcrWW2/dgvpHtMYaa5QLL7ywvP/+++XLL78sjz76aLnrrrui3H333eXJJ58s3333Xfniiy8CdNxaj9FSgxZffPFy8sknlzfeeCOAU7799tso/v7xxx/LL7/8Ur7++uty5ZVXlpVXXrkFdEq0xBJLlLPOOqvccccd5fHHHy/PPPNMee655/rK888/H8V9HEsF1GO09B9acskly0EHHVTGjRtXPvnkkzJp0qQyJfrmm29Cl7Zi3w8ttthiIe5PP/10iPRvv/1WY/g7+v7774OTV1111RbQTrT88suXc889t9x+++1hjJ599tnywgsvlJdffvl35cUXX4z7Tz31VLntttvKWmut1QJaE1145plnhuUm7lNDOJT1HzVq1N9L7Ndcc82y7LLLlqFDh/YVdZz1j3/+KwprfcUVVwRAv/76a41dv0TfXnPNNeGj1vP2JPErt9xyy7LddtuVYcOGleHDh0fx9zbbbFOADVDg3nrrreXhhx+uMZsiPfLII6Ei/hbWfsUVV4wQEfcBceeddy677LJLlJ122qkk2HTnVVddVd57773Qi3+GGDBBwHXXXdfbYs8FWm211QLQTTfdNEDNQjz9BuRtt922cOYZF5adr/lnSHv9qIqetvZzzjlnn55ceumlQ7yJOUBHjBhRdtxxxwB1q622CkCJLb/yfwFUFAXQntajs802W8GlxB5gAAWkh06xBy6RTw7tBChf9KabbgrD41r7pqImgN555529DejMM89cFl100bDoCy+8cNlss836OJQuxaE4eP311492nQBl7TnuEyZMiLqretMLSA51f7nllutdQGeaaaay0EILlcGDB5d55pknrDmjMWTIkCI9R68uuOCCZd55540rC08XcuaTbrzxxvLzzz/31ZG6+0na6+eFLLLIIsHt5qrXM+Bp9tlnDyABq6gDb/75548y33zzhcECMg4F0gcffBAJ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
+

@@ -1,0 +1,172 @@
+generator:MegaMek Suite 0.51.00 on 2026-09-22
+chassis:Owens
+model:OW-1 (Upgraded
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3145
+source:CO,IC,JFR,JHS:3076,JHS:Terra,JSBD,JTP:Atreus,JTP:AtreusBC,JTP:Dieron,JTP:Hesperus II,JTP:Luthien,JTP:NewAvalon,JTP:Sian,JTP:Tharkad,MH55,MSII,MW1e,MWC,RG01,RG02,RG03,RG04,RG05,RG06,RG07,RG08,RG09,RG10,RG11,RG12,RG13,RG14,RG15,RG16,RG17,RG18,RG19,RG20,RG21,RG22,RG23,RG24,RG25,RG26,RG27,RG28,RG29,RG30,RG31,RG32,RG33,TM,TR:2750,TR:3025,TR:3025C,TR:3025r,TR:3026,TR:3026r,TR:3039,TR:3050,TR:3050U,TR:3055U,TR:3057r,TR:3058U,TR:3060,TR:3067,TR:3075,TR:3085,TR:3085S,TR:3145,TR:3145:C,TR:3145:CC,TR:3145:DC,TR:3145:FS,TR:3145:FWL,TR:3145:LC,TR:3145:Merc,TR:3145:RotS,TR:3150,TR:CI,TR:DA,TR:GC,TR:I,TR:J,TR:PP,TR:Proto,TR:SW,TR:VAr,TW
+published:CO,IC,JFR,JHS:3076,JHS:Terra,JSBD,JTP:Atreus,JTP:AtreusBC,JTP:Dieron,JTP:Hesperus II,JTP:Luthien,JTP:NewAvalon,JTP:Sian,JTP:Tharkad,MH55,MSII,MW1e,MWC,RG01,RG02,RG03,RG04,RG05,RG06,RG07,RG08,RG09,RG10,RG11,RG12,RG13,RG14,RG15,RG16,RG17,RG18,RG19,RG20,RG21,RG22,RG23,RG24,RG25,RG26,RG27,RG28,RG29,RG30,RG31,RG32,RG33,TM,TR:2750,TR:3025,TR:3025C,TR:3025r,TR:3026,TR:3026r,TR:3039,TR:3050,TR:3050U,TR:3055U,TR:3057r,TR:3058U,TR:3060,TR:3067,TR:3075,TR:3085,TR:3085S,TR:3145,TR:3145:C,TR:3145:CC,TR:3145:DC,TR:3145:FS,TR:3145:FWL,TR:3145:LC,TR:3145:Merc,TR:3145:RotS,TR:3150,TR:CI,TR:DA,TR:GC,TR:I,TR:J,TR:PP,TR:Proto,TR:SW,TR:VAr,TW
+rules level:3
+
+quirk:imp_sensors
+
+mass:35
+engine:350 XL (Clan) Engine
+structure:Clan Endo Steel
+myomer:Standard
+cockpit:Standard Cockpit
+gyro:XL Gyro
+ejection:Full Head Ejection System
+
+heat sinks:10 Clan Double
+walk mp:10
+jump mp:0
+
+armor:Ferro-Fibrous(Clan)
+LA armor:12
+RA armor:12
+LT armor:12
+RT armor:12
+CT armor:17
+HD armor:9
+LL armor:16
+RL armor:16
+RTL armor:4
+RTR armor:4
+RTC armor:5
+
+Weapons:5
+LRM 5, Left Torso
+LRM 5, Left Torso
+ER Medium Laser, Right Torso
+ER Small Laser, Right Torso
+ER Small Laser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Clan Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLLRM5
+CLLRM5
+Clan Ammo LRM-5
+CLCASEII
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLERMediumLaser
+CLERSmallLaser
+CLERSmallLaser
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLECMSuite
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+overview:<p>The Owens is intended to be an OmniMech upgrade of the Jenner BattleMech, with the primary role being that of a cavalry 'Mech that can move along enemy lines and designate targets for bombardment with Arrow IV artillery and semi-guided LRM attacks. Following the lessons learned from the proof-of-concept Raptor, the DCMS authorized Luthien Armor Works to produce a full line of OmniMechs.</p><p>In a surprising move, the DCMS broke with tradition and christened this new OmniMech the Owens, after an ancient Terran drinking song long associated with cavalry units. Inner Sphere intelligence agencies were mystified by this radical departure from expected behavior, and great effort was expended only to discover that the name came from an old Terran drinking song. The confusion this caused among enemy analysts was considered an unexpected bonus.</p>
+
+capabilities:<p>The Owens' primary mission is that of a cavalry 'Mech, screening and reconnaissance. The lessons from the Raptor are reflected in the design. The modular weapon containers were standardized and perfected to allow weapons to operate with all future OmniMech designs. Of special note is the quantity of fixed electronics the Owens carries: a C3 network slave, Beagle active probe, and TAG gear.</p><p>With this array, the Owens can find and fix the enemy with indirect fire from supporting elements while the main body moves against the enemy's flank. The Owens rarely engages and destroys the enemy directly; instead, it uses its targeting and communications systems to assist heavier units in performing that task. The seven tons of available pod space allow commanders to tailor the configuration to specific mission requirements.</p><p>The Owens has a top speed of 129.6 km/h and is protected with seven tons of armor. The 'Mech's unique mix of speed, armor, and electronic warfare equipment make the Owens a valuable asset in urban and dense woods or jungle environments where it can find an enemy unit that is hidden, designate them for an artillery strike, and then leave the area at high speeds.</p>
+
+deployment:<p>The Primary configuration uses small and medium lasers for self-defense while LRM racks on the 'Mech's arms offer suppressive fire in indirect support of other units in the lance or company. This loadout emphasizes the Owens' role as a spotter and support platform rather than a direct combatant, allowing the pilot to focus on maintaining TAG designation and C3 network integrity while contributing modest but sustained firepower to the formation.</p>
+
+history:<p>The DCMS deployed the Owens in 3056, and by the outbreak of the Word of Blake Jihad most frontline regiments could boast between a lance and a company of these versatile machines. The design has proven invaluable for coordinating fire support and providing tactical intelligence to command elements in real-time.</p><p>Outside of the Draconis Combine, the Owens also appeared among the ranks of the Com Guards and the reborn Star League Defense Force. During the détente of the Second Star League, most of the other Successor States were able to purchase examples of the design, spreading this capable reconnaissance platform across the Inner Sphere.</p><p>Following a reverse-engineered copy of the Black Hawk designated the Black Hawk-KU, the Owens was the next 'Mech in LAW's OmniMech line. The design focused on classic cavalry roles of screening and reconnaissance rather than direct combat, filling a critical gap in DCMS force structure that had previously relied on aging conventional designs.</p>
+
+manufacturer:Luthien Armor Works (OmniMech Production Facility)|Irian BattleMechs Unlimited
+
+primaryfactory:Luthien|Irian
+
+notes:Bubbles' Marauders Owens updated for IlClan era.
+
+
